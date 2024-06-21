@@ -1,3 +1,4 @@
 # Customer-Churn-Analysis-with-Dashboard
 Customer Churn Prediction- It is  machine learning model where i have  used various machine learning algorithm to predict customers with a high churn risk. The main objective of my project is to demonstrates how machine learning can be leveraged allowing the bank to proactively take steps to improve customer satisfaction and retention. 
+
 Analysis- I have created a dashboard using Microsoft power-bi project. The dashboard serves as a single-page representation of reports derived from various datasets. So objective of this project is to discover various factors contributing to increased customer churn rate at the bank, and provide them with these insights which they can use to make informed decisions  to improve customer retention and reduce churn rate thereby improving the overall supply chain management . 
